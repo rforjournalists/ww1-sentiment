@@ -1,6 +1,7 @@
 ---
 title: "README"
-output: github_document
+output: github_document:
+  html_preview: FALSE
 ---
 
 ```{r setup, include=FALSE}
